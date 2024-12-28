@@ -128,3 +128,4 @@ fabric.properties
 
 /classification_feature_extraction/data/*
 /emotion_detection/data/*
+/sign_langugate_detector/data/*
