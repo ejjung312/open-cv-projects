@@ -127,3 +127,4 @@ fabric.properties
 .venv
 
 /classification_feature_extraction/data/*
+/emotion_detection/data/*
