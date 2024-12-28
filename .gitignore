@@ -125,3 +125,5 @@ fabric.properties
 /dataSources.local.xml
 /misc.xml
 .venv
+
+/classification_feature_extraction/data/*
